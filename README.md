@@ -10,7 +10,7 @@ This guide explains how to connect the **NetlifyHelper Bot** with your Netlify a
 1. Go to **Integrations → Webhook Token**.
 2. Click **"Generate New Token"**.
 3. Copy the generated token.
-![image](https://github.com/user-attachments/assets/f2435777-8607-4a0b-ac90-64062a4a61a1)
+![Screenshot 2024-11-29 191311](https://github.com/user-attachments/assets/f5a22305-b58f-46f3-8b30-a5e09e1918de)
 
 ---
 
@@ -30,16 +30,5 @@ This will be your **TokenURL**.
 - Select **HTTP POST Request**.
 - Add the **TokenURL** in the field **Url to notify**.
 4. Choose the notification type you need and click **Save**.
-![image](https://github.com/user-attachments/assets/e0bfd311-7fe2-4480-9a65-5cc6f75c29db)
-![image](https://github.com/user-attachments/assets/b98e93fb-c60b-4bde-8a30-5bee2c39cf4a)
-
----
-
-### **Example:**
-Here’s an example URL for your webhook:
-https://cliq.zoho.com/company/871740404/api/v2/bots/netlifyhelper/incoming?zapikey=YOUR_GENERATED_TOKEN
-
----
-
-### **Need Help?**
-If you encounter any issues, please reach out to the support team or consult the [Netlify Documentation](https://docs.netlify.com/).
+![Screenshot 2024-11-29 191610](https://github.com/user-attachments/assets/678f4363-9f63-4400-9ef6-bcbc216f0246)
+![Screenshot 2024-11-29 191650](https://github.com/user-attachments/assets/9d66a501-4587-45bf-ab67-34774b077587)
