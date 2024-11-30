@@ -35,3 +35,5 @@ This guide explains how to connect the **NetlifyHelper Bot** with your Netlify a
 ![Screenshot 2024-11-29 191610](https://github.com/user-attachments/assets/678f4363-9f63-4400-9ef6-bcbc216f0246)
 
 ![Screenshot 2024-11-29 191650](https://github.com/user-attachments/assets/9d66a501-4587-45bf-ab67-34774b077587)
+
+Go to the deploy section and perform **Trigger Deploy** inorder to recieve notifications at Netlify Helper Bot.
