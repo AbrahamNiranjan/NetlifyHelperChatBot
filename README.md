@@ -26,7 +26,8 @@ This guide explains how to connect the **NetlifyHelper Bot** with your Netlify a
 ---
 
 ### **3. Configure Notifications in Netlify**
-1. Go to [Netlify Notification Settings](https://app.netlify.com/sites/{your_site}/configuration/notifications#emails-and-webhooks).
+Make sure to deploy a site before performing the below actions:
+1. Go to [Netlify Notification Settings](https://app.netlify.com/sites/{your_site}/configuration/notifications#emails-and-webhooks). (OR) Click the deployed site and navigate to the notification menu.
 2. Under **Deploy Notification**, choose **Add Notification**.
 3. In the **Add Notification** window:
 - Select **HTTP POST Request**.
